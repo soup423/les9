@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(32, 25, 25, 0.685) ;
+}
+.main{
+    width: 350px;
+    height: 350px;
+    border: 2px solid white;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    box-shadow: blanchedalmond;
+}
+div.head {
+    border: 1px rgb(51, 49, 49) solid;;
+    border-radius: 10px;
+    margin: 50px 50px;
+    padding: 20px;
+    background-color: rgb(70, 70, 70);
+    color: white;
+    position: relative
+    box-shadow: black;
+}
+div.name {
+    position: relative;
+    padding: auto;
+    left: 70px;
+    margin: 10px;
+}
+div.telNumber {
+    position: relative;
+    padding: auto;
+    left: 70px;
+    margin: 10px;
+}
+.callRecuest {
+    position: relative;
+    padding: auto;
+    left: 70px;
+    margin: 10px;
+    margin-top: 0px;
+}
+input[type="text"] {
+    background-color:rgb(70, 70, 70);
+    color: white;
+}
